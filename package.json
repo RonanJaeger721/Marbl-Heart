@@ -1,0 +1,1 @@
+{"name":"marbl-hearth","private":true,"version":"1.0.0","scripts":{"dev":"npx --yes serve@14.2.5 . -l 4173","build":"node -e \"console.log('Static site ready')\""}}
